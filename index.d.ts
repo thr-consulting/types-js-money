@@ -1,5 +1,5 @@
 export interface Currency {
-  code: string;
+  code: CurrencyString;
   decimal_digits: number;
   name: string;
   name_plural: string;
