@@ -1,0 +1,9 @@
+{
+  "name": "types-js-money",
+  "version": "1.0.0",
+  "main": "",
+  "types": "index.d.ts",
+  "license": "MIT",
+  "description": "Type definitions for js-money",
+  "author": "Mike Kornelson <darkadept@durbn.net>"
+}
